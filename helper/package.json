@@ -1,0 +1,17 @@
+{
+  "name": "highscore-helper",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence helper for Highscore",
+  "main": "helper.js",
+  "scripts": {
+    "start": "node helper.js"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "express": "^5.2.1",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.1.2"
+  }
+}

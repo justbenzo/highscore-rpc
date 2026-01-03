@@ -1,0 +1,10 @@
+# Node stuff
+node_modules/
+*.log
+
+# macOS
+.DS_Store
+
+# Build outputs
+*.app
+*.zip

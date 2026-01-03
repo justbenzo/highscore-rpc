@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Highscore Discord Presence",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "host_permissions": ["http://localhost:3020/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
